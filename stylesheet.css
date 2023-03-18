@@ -1,0 +1,131 @@
+html, body {
+    margin: 0;
+    background-color:white;
+}
+
+.title-container {
+    max-width: 760px;
+    margin: 0px auto;
+    padding-left: 0px;
+    padding-right: 30px;
+    padding-bottom:20px;
+}
+
+
+.text-container {
+    max-width: 760px;
+    margin: 0px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+.tail {
+    max-width: 760px;
+    margin: 0px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.tail p{
+    margin-top: 16px;
+    font-size: large;
+    font-family: 'Fira Sans', sans-seri;
+    font-weight: 400;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.tag {
+    font-family: 'Mako', sans-serif;
+    font-weight: 800;
+    color:#117A65;
+    line-height: 14px;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: 'Fira Sans', sans-seri;
+    color:#45B39D;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.byline {
+    font-family: 'Mako', sans-serif;
+    color:#747474;
+    line-height: 14px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.date {
+    font-family: 'Mako', sans-serif;
+    color:#747474;
+    line-height: 10px;
+    font-size: 14px;
+    text-align: left;
+}
+
+.chart{
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+h2 {
+    font-family: 'Fira Sans', sans-seri;
+    color:#065448;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Fira Sans', sans-seri;
+    color:#3e3e3e;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: large;
+    font-family: 'Marcellus', serif;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.note {
+    font-family: 'Mako', sans-serif;
+    font-style: italic;
+    margin: 0px auto;
+    font-size: 0.9;
+    color: grey;
+    text-align: center;
+}
+
+a:link {
+    color: #F39C12;
+    text-decoration: none;
+  }
+
+a:visited {
+    color: #935116;
+  }
+  
+a:hover {
+    color:#1c1c1c;
+    background-color: #E67E22;
+  }
